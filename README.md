@@ -1,6 +1,5 @@
 # Bless Network Bot 
 
-## Description
 This script automates network or node operations for Blockless Bless Network Bot.
 
 ## Register Bless Network
